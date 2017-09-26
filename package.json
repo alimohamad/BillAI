@@ -1,0 +1,18 @@
+{
+  "name": "bill",
+  "version": "1.0.0",
+  "description": "App that scrapes web for political data and tells you what bills are on the House and Senate floors (USA)",
+  "main": "index.js",
+  "scripts": {
+    "test": "Yes I'm only a bill, and I'm sitting here on Capitol Hill"
+  },
+  "author": "Ali Mohamad",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "botbuilder": "^3.9.1",
+    "cheerio": "^1.0.0-rc.2",
+    "ejson": "^2.1.2",
+    "restify": "^6.0.0"
+  }
+}
